@@ -8,7 +8,7 @@
 </p> 
 
 
-- 🌱 Je autodidacte sur **Javascript**
+- 🌱 Autodidacte sur **Javascript**
 
 - 👨‍💻 Certains de mes projets sont visibles sur [dupuytom.com/portfolio](dupuytom.com/portfolio)
 
