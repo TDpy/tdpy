@@ -12,7 +12,7 @@
 
 - 👨‍💻 Certains de mes projets sont visibles sur [dupuytom.com/portfolio](dupuytom.com/portfolio)
 
-- 📄 Mon CV disponible ici [dupuytom.com/cv](dupuytom.com/cv)
+- 📄 Mon CV disponible ici [dupuytom.com/cv](dupuytom.com/CV.pdf)
 
 - 📫 Pour me joindre : <a href="mailto:tomdupuypro@gmail.com">e-mail</a>
 
