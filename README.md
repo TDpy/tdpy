@@ -10,9 +10,9 @@
 
 - 🌱 Autodidacte sur **Javascript**
 
-- 👨‍💻 Certains de mes projets sont visibles sur [dupuytom.com/portfolio](dupuytom.com/portfolio)
+- 👨‍💻 Certains de mes projets sont visibles sur [dupuytom.com](https://dupuytom.com)
 
-- 📄 Mon CV disponible ici [dupuytom.com/cv](dupuytom.com/CV.pdf)
+- 📄 Mon CV disponible ici [CV](https://dupuytom.com/CV.pdf)
 
 - 📫 Pour me joindre : <a href="mailto:tomdupuypro@gmail.com">e-mail</a>
 
